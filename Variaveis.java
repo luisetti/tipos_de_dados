@@ -10,6 +10,7 @@ public class Variaveis{
         float salarioMenor = 1200.00f;
         short alunosPalmital = 10000;
         long populacaoPalmital = 22000;
+        String nome="luis";
         System.out.println(idade);
         System.out.println(quantidadeBola);
         System.out.println(vivo);
@@ -19,4 +20,5 @@ public class Variaveis{
         System.out.println(populacaoPalmital);
         System.out.println(letra);
 
+        System.out.println("meu nome é "+nome + " tenho "+idade +" anos");
 }}
