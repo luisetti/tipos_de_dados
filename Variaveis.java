@@ -19,5 +19,4 @@ public class Variaveis{
         System.out.println(populacaoPalmital);
         System.out.println(letra);
 
-
 }}
